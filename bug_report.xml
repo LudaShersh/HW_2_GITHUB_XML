@@ -1,0 +1,9 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "no" ?>
+<bug_report>
+  <item id="1">Summary</item>
+  <item id="2">Description</item>
+  <item id="3">Step to reproduce</item>
+  <item id="4">Severity</item>
+  <item id="5">Priority</item>
+  <item id="6">Envirenmen</item>
+</bug_report>
